@@ -15,7 +15,6 @@ class ViewController: UIViewController {
         
         print("hello baby")
         print("bye baby")
-        // Do any additional setup after loading the view.
     }
 
 
